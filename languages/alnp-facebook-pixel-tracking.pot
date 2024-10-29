@@ -1,0 +1,171 @@
+# # Copyright (c) {2019} Sébastien Dumont
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Load Next Post: Pixel Tracking 2.0.1\n"
+"Report-Msgid-Bugs-To: "
+"https://github.com/autoloadnextpost/alnp-facebook-pixel-tracking/issues\n"
+"POT-Creation-Date: 2019-09-16 17:37:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Sébastien Dumont <mailme@sebastiendumont.com>\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: alnp-facebook-pixel-tracking.php:89
+msgid "Cloning this object is forbidden."
+msgstr ""
+
+#: alnp-facebook-pixel-tracking.php:101
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: includes/admin/alnp-facebook-pixel-tracking-admin.php:52
+msgid "Developed By %s"
+msgstr ""
+
+#: includes/admin/alnp-facebook-pixel-tracking-admin.php:52
+msgid "View the Developers Site"
+msgstr ""
+
+#: includes/admin/alnp-facebook-pixel-tracking-admin.php:55
+msgid "Get Support from the Community"
+msgstr ""
+
+#: includes/admin/alnp-facebook-pixel-tracking-admin.php:55
+msgid "Community Support"
+msgstr ""
+
+#: includes/admin/alnp-facebook-pixel-tracking-admin.php:56
+msgid "Review Pixel Tracking for Auto Load Next Post on WordPress.org"
+msgstr ""
+
+#: includes/admin/alnp-facebook-pixel-tracking-admin.php:56
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:289
+msgid "Leave a Review"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:97
+#. translators: Number of years
+msgid "%s years"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:99
+msgid "a year"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:106
+#. translators: Number of weeks
+msgid "%s weeks"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:108
+msgid "a week"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:115
+#. translators: Number of days
+msgid "%s days"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:117
+msgid "a day"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:124
+#. translators: Number of hours
+msgid "%s hours"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:126
+msgid "an hour"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:133
+#. translators: Number of minutes
+msgid "%s minutes"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:135
+msgid "a minute"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:142
+#. translators: Number of seconds
+msgid "%s seconds"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:144
+msgid "a second"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:278
+#. translators: 1. Name
+msgid "%1$s WordPress Plugin"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:282
+#. translators: 1. Name
+msgid "Are you enjoying %1$s?"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:285
+#. translators: 1. Name, 2. Time
+msgid ""
+"You have been using %1$s for %2$s now! Mind leaving a quick review to let "
+"me know know what you think? I'd really appreciate it!"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:290
+msgid "No thanks / I already have"
+msgstr ""
+
+#: includes/admin/class-alnp-facebook-pixel-tracking-feedback.php:321
+msgid "Pixel Tracking for Auto Load Next Post"
+msgstr ""
+
+#: includes/admin/views/html-notice-alnp-not-installed.php:18
+msgid ""
+"%1$s requires %2$sAuto Load Next Post%3$s. Install and activate Auto Load "
+"Next Post version %4$s or higher."
+msgstr ""
+
+#: includes/admin/views/html-notice-alnp-not-installed.php:24
+msgid "Activate Auto Load Next Post"
+msgstr ""
+
+#: includes/admin/views/html-notice-alnp-not-installed.php:34
+msgid "Install Auto Load Next Post"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Auto Load Next Post: Pixel Tracking"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/alnp-facebook-pixel-tracking/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Track your page views using Facebook Pixel with Auto Load Next Post."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Auto Load Next Post"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://autoloadnextpost.com"
+msgstr ""

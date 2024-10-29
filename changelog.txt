@@ -1,0 +1,13 @@
+*** Auto Load Next Post: Pixel Tracking - Changelog ***
+
+16th September 2019 - Version 2.0.1
+
+* Renamed plugin due to trademark.
+
+29th May 2019 - Version 2.0.0
+
+* Compatible: WordPress 5.2.1
+* Compatible: Auto Load Next Post 1.5 and over.
+
+16th January 2018 - Version 1.0.0
+* Initial version.
